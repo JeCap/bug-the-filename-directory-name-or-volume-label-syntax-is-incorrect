@@ -8,5 +8,8 @@
     "test:me": "npm -v"
   },
   "author": "Jens Capsius",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^8.13.1"
+  }
 }
