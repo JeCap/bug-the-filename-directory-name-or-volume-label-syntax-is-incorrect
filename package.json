@@ -1,0 +1,12 @@
+{
+  "name": "bug-the-filename-directory-name-or-volume-label-syntax-is-incorrect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:me",
+    "test:me": "npm -v"
+  },
+  "author": "Jens Capsius",
+  "license": "ISC"
+}
